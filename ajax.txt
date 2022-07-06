@@ -1,0 +1,2 @@
+this is ajax file.
+hello from ajax.txt
